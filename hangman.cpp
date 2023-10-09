@@ -7,7 +7,7 @@
 using namespace std;
 
 // List of words for the game
-vector<string> words = {"programming", "computer", "hangman", "algorithm", "openai"};
+vector<string> words = {"programming", "computer", "hangman", "algorithm", "puzzling", "knapsack"};
 
 // Function to choose a random word from the list
 string chooseRandomWord() {
